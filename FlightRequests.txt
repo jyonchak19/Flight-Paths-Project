@@ -1,0 +1,8 @@
+3
+Austin|Chicago|C
+Austin|Billings|C
+Austin|Detroit|T
+
+2
+Dallas|Houston|T
+Chicago|Dallas|C
